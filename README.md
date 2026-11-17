@@ -1,5 +1,9 @@
 # forge — a GitHub-compatible git forge in one process
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/Mastomy2/github-core-clone-01-entry/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/Mastomy2/github-core-clone-01-entry/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A standalone entry for [github-core-clone-01](https://make.fun/bounty/github-core-clone-01): a
 single Node process that serves git smart HTTP, the REST v3 API, GraphQL v4 and MCP from its own
 in-memory store, with no dependencies, no git binary, no database and no network access at run
